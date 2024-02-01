@@ -1,0 +1,1010 @@
+Archive member included because of file (symbol)
+
+h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodqi4.o)
+                              ./App/main.o (__udivmodqi4)
+h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodsi4.o)
+                              ./App/main.o (__divmodsi4)
+h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+                              h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o (exit)
+h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+                              ./MCAL/TIMER/TIMER0_prog.o (__do_copy_data)
+h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+                              ./MCAL/TIMER/TIMER0_prog.o (__do_clear_bss)
+h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+                              ./MCAL/TIMER/TIMER0_prog.o (__fixunssfsi)
+h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+                              h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o) (__subsf3)
+h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+                              ./MCAL/I2C/i2c.o (__mulsf3)
+h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+                              ./App/main.o (__divsf3)
+h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+                              ./MCAL/I2C/i2c.o (__gtsf2)
+h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+                              h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o) (__gesf2)
+h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+                              ./MCAL/I2C/i2c.o (__ltsf2)
+h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+                              ./App/main.o (__fixsfsi)
+h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+                              h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o) (__thenan_sf)
+h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+                              ./App/main.o (__floatunsisf)
+h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodsi4.o)
+                              h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodsi4.o) (__udivmodsi4)
+h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_prologue.o)
+                              h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o) (__prologue_saves__)
+h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_epilogue.o)
+                              h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o) (__epilogue_restores__)
+h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+                              h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o) (__clzsi2)
+h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+                              h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o) (__pack_f)
+h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+                              h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o) (__unpack_f)
+h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+                              h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o) (__fpcmp_parts_f)
+h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clz.o)
+                              h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o) (__clz_tab)
+
+Allocating common symbols
+Common symbol       size              file
+
+ISR_FUN_INT2        0x2               ./MCAL/EXT/ext_prog.o
+ISR_FUN_INT1        0x2               ./MCAL/EXT/ext_prog.o
+TIMER0_OVF_INT      0x2               ./MCAL/TIMER/TIMER0_prog.o
+ISR_ADC_INT         0x2               ./MCAL/ADC/adc_prog.o
+ISR_FUN_INT0        0x2               ./MCAL/EXT/ext_prog.o
+error               0x1               ./HAL/seven_segment/sev_seg_prog.o
+TIMER0_CTC_INT      0x2               ./MCAL/TIMER/TIMER0_prog.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00020000         xr
+data             0x00800060         0x0000ffa0         rw !x
+eeprom           0x00810000         0x00010000         rw !x
+fuse             0x00820000         0x00000400         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+LOAD ./MCAL/TIMER/TIMER0_prog.o
+LOAD ./MCAL/I2C/i2c.o
+LOAD ./MCAL/EXT/ext_prog.o
+LOAD ./MCAL/DIO/dio_pro.o
+LOAD ./MCAL/ADC/adc_prog.o
+LOAD ./HAL/temp sensor/tempsensor.o
+LOAD ./HAL/seven_segment/sev_seg_config.o
+LOAD ./HAL/seven_segment/sev_seg_prog.o
+LOAD ./HAL/SW/sw_pro.o
+LOAD ./HAL/LED/led_prog.o
+LOAD ./HAL/EXT_TIMER0/TIMER_prog.o
+LOAD ./HAL/EXTR_INT/extint_prog.o
+LOAD ./HAL/EEPROM/eeprom.o
+LOAD ./App/main.o
+LOAD h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a
+LOAD h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a
+LOAD h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000     0x2ed2
+ *(.vectors)
+ .vectors       0x00000000       0x54 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+                0x00000000                __vectors
+                0x00000000                __vector_default
+ *(.vectors)
+ *(.progmem.gcc*)
+ *(.progmem*)
+                0x00000054                . = ALIGN (0x2)
+                0x00000054                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x00000054        0x0 linker stubs
+ *(.trampolines*)
+                0x00000054                __trampolines_end = .
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x00000054                __ctors_start = .
+ *(.ctors)
+                0x00000054                __ctors_end = .
+                0x00000054                __dtors_start = .
+ *(.dtors)
+                0x00000054                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x00000054        0x0 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+                0x00000054                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x00000054        0xc h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x00000060       0x16 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+                0x00000060                __do_copy_data
+ .init4         0x00000076       0x10 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+                0x00000076                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x00000086        0x8 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+ *(.init9)
+ *(.text)
+ .text          0x0000008e        0x4 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+                0x0000008e                __vector_12
+                0x0000008e                __bad_interrupt
+                0x0000008e                __vector_6
+                0x0000008e                __vector_13
+                0x0000008e                __vector_17
+                0x0000008e                __vector_19
+                0x0000008e                __vector_7
+                0x0000008e                __vector_5
+                0x0000008e                __vector_4
+                0x0000008e                __vector_9
+                0x0000008e                __vector_15
+                0x0000008e                __vector_8
+                0x0000008e                __vector_14
+                0x0000008e                __vector_18
+                0x0000008e                __vector_20
+ .text          0x00000092        0x0 ./MCAL/TIMER/TIMER0_prog.o
+ .text          0x00000092        0x0 ./MCAL/I2C/i2c.o
+ .text          0x00000092        0x0 ./MCAL/EXT/ext_prog.o
+ .text          0x00000092        0x0 ./MCAL/DIO/dio_pro.o
+ .text          0x00000092        0x0 ./MCAL/ADC/adc_prog.o
+ .text          0x00000092        0x0 ./HAL/temp sensor/tempsensor.o
+ .text          0x00000092        0x0 ./HAL/seven_segment/sev_seg_config.o
+ .text          0x00000092        0x0 ./HAL/seven_segment/sev_seg_prog.o
+ .text          0x00000092        0x0 ./HAL/SW/sw_pro.o
+ .text          0x00000092        0x0 ./HAL/LED/led_prog.o
+ .text          0x00000092        0x0 ./HAL/EXT_TIMER0/TIMER_prog.o
+ .text          0x00000092        0x0 ./HAL/EXTR_INT/extint_prog.o
+ .text          0x00000092        0x0 ./HAL/EEPROM/eeprom.o
+ .text          0x00000092        0x0 ./App/main.o
+ .text          0x00000092        0x0 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodqi4.o)
+ .text          0x00000092        0x0 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodsi4.o)
+ .text          0x00000092        0x0 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ .text          0x00000092        0x0 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+ .text          0x00000092        0x0 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+ .text          0x00000092       0x58 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+                0x00000092                __fixunssfsi
+ .text          0x000000ea      0x354 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+                0x00000382                __subsf3
+                0x000003e4                __addsf3
+ .text          0x0000043e      0x1f4 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+                0x0000043e                __mulsf3
+ .text          0x00000632      0x158 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+                0x00000632                __divsf3
+ .text          0x0000078a       0x60 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+                0x0000078a                __gtsf2
+ .text          0x000007ea       0x60 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+                0x000007ea                __gesf2
+ .text          0x0000084a       0x60 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+                0x0000084a                __ltsf2
+ .text          0x000008aa       0xa8 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+                0x000008aa                __fixsfsi
+ .text          0x00000952        0x0 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .text          0x00000952       0xf2 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+                0x00000952                __floatunsisf
+ .text          0x00000a44        0x0 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodsi4.o)
+ .text          0x00000a44        0x0 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_prologue.o)
+ .text          0x00000a44        0x0 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_epilogue.o)
+ .text          0x00000a44       0x9e h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+                0x00000a44                __clzsi2
+ .text          0x00000ae2      0x1aa h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+                0x00000ae2                __pack_f
+ .text          0x00000c8c       0xf0 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+                0x00000c8c                __unpack_f
+ .text          0x00000d7c       0xb2 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+                0x00000d7c                __fpcmp_parts_f
+ .text          0x00000e2e        0x0 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clz.o)
+                0x00000e2e                . = ALIGN (0x2)
+ *(.text.*)
+ .text.__vector_11
+                0x00000e2e       0x5a ./MCAL/TIMER/TIMER0_prog.o
+                0x00000e2e                __vector_11
+ .text.__vector_10
+                0x00000e88       0x5a ./MCAL/TIMER/TIMER0_prog.o
+                0x00000e88                __vector_10
+ .text.TIMER0_vid_int
+                0x00000ee2       0x3c ./MCAL/TIMER/TIMER0_prog.o
+                0x00000ee2                TIMER0_vid_int
+ .text.TIMER0_vid_Start
+                0x00000f1e       0x2a ./MCAL/TIMER/TIMER0_prog.o
+                0x00000f1e                TIMER0_vid_Start
+ .text.TIMER0_vid_Stop
+                0x00000f48       0x1c ./MCAL/TIMER/TIMER0_prog.o
+                0x00000f48                TIMER0_vid_Stop
+ .text.TIMER0_vid_Reset
+                0x00000f64       0x14 ./MCAL/TIMER/TIMER0_prog.o
+                0x00000f64                TIMER0_vid_Reset
+ .text.TIMER0_vid_Write_OVR_TCNT0
+                0x00000f78       0x1c ./MCAL/TIMER/TIMER0_prog.o
+                0x00000f78                TIMER0_vid_Write_OVR_TCNT0
+ .text.TIMER0_vid_Write_COMP_OCR0
+                0x00000f94       0x1c ./MCAL/TIMER/TIMER0_prog.o
+                0x00000f94                TIMER0_vid_Write_COMP_OCR0
+ .text.TIMER0_vid_OVR_Interrupt_Enable
+                0x00000fb0       0x2a ./MCAL/TIMER/TIMER0_prog.o
+                0x00000fb0                TIMER0_vid_OVR_Interrupt_Enable
+ .text.TIMER0_vid_OVR_Interrupt_Disable
+                0x00000fda       0x1c ./MCAL/TIMER/TIMER0_prog.o
+                0x00000fda                TIMER0_vid_OVR_Interrupt_Disable
+ .text.TIMER0_vid_COMP_Interrupt_Enable
+                0x00000ff6       0x2a ./MCAL/TIMER/TIMER0_prog.o
+                0x00000ff6                TIMER0_vid_COMP_Interrupt_Enable
+ .text.TIMER0_vid_COMP_Interrupt_Disable
+                0x00001020       0x1c ./MCAL/TIMER/TIMER0_prog.o
+                0x00001020                TIMER0_vid_COMP_Interrupt_Disable
+ .text.prescaller_value
+                0x0000103c       0x16 ./MCAL/TIMER/TIMER0_prog.o
+                0x0000103c                prescaller_value
+ .text.TIMER0_OCR_PWM_u8_calc
+                0x00001052       0x4a ./MCAL/TIMER/TIMER0_prog.o
+                0x00001052                TIMER0_OCR_PWM_u8_calc
+ .text.TWI_voidMasterInit
+                0x0000109c       0x40 ./MCAL/I2C/i2c.o
+                0x0000109c                TWI_voidMasterInit
+ .text.TWI_voidSlaveInit
+                0x000010dc       0x4c ./MCAL/I2C/i2c.o
+                0x000010dc                TWI_voidSlaveInit
+ .text.TWI_SendStartCondition
+                0x00001128       0x54 ./MCAL/I2C/i2c.o
+                0x00001128                TWI_SendStartCondition
+ .text.TWI_SendRepeatedStart
+                0x0000117c       0x54 ./MCAL/I2C/i2c.o
+                0x0000117c                TWI_SendRepeatedStart
+ .text.TWI_SendSlaveAddressWithWrite
+                0x000011d0       0x4e ./MCAL/I2C/i2c.o
+                0x000011d0                TWI_SendSlaveAddressWithWrite
+ .text.TWI_SendSlaveAddressWithRead
+                0x0000121e       0x5c ./MCAL/I2C/i2c.o
+                0x0000121e                TWI_SendSlaveAddressWithRead
+ .text.TWI_MstrSendDataByte
+                0x0000127a       0x52 ./MCAL/I2C/i2c.o
+                0x0000127a                TWI_MstrSendDataByte
+ .text.TWI_MstrReadDataByte
+                0x000012cc       0x6c ./MCAL/I2C/i2c.o
+                0x000012cc                TWI_MstrReadDataByte
+ .text.TWI_SendStopCondition
+                0x00001338       0x2a ./MCAL/I2C/i2c.o
+                0x00001338                TWI_SendStopCondition
+ .text.EEPROM_SendDataByte
+                0x00001362      0x15c ./MCAL/I2C/i2c.o
+                0x00001362                EEPROM_SendDataByte
+ .text.EEPROM_ReadDataByte
+                0x000014be       0x90 ./MCAL/I2C/i2c.o
+                0x000014be                EEPROM_ReadDataByte
+ .text.__vector_1
+                0x0000154e       0x5a ./MCAL/EXT/ext_prog.o
+                0x0000154e                __vector_1
+ .text.__vector_2
+                0x000015a8       0x5a ./MCAL/EXT/ext_prog.o
+                0x000015a8                __vector_2
+ .text.__vector_3
+                0x00001602       0x5a ./MCAL/EXT/ext_prog.o
+                0x00001602                __vector_3
+ .text.EXT_vidInit
+                0x0000165c       0x92 ./MCAL/EXT/ext_prog.o
+                0x0000165c                EXT_vidInit
+ .text.EXT_vidControlInt0
+                0x000016ee       0xce ./MCAL/EXT/ext_prog.o
+                0x000016ee                EXT_vidControlInt0
+ .text.EXT_vidControlInt1
+                0x000017bc       0xce ./MCAL/EXT/ext_prog.o
+                0x000017bc                EXT_vidControlInt1
+ .text.EXT_vidControlInt2
+                0x0000188a       0x56 ./MCAL/EXT/ext_prog.o
+                0x0000188a                EXT_vidControlInt2
+ .text.DIO_vidSetPortDir
+                0x000018e0       0x38 ./MCAL/DIO/dio_pro.o
+                0x000018e0                DIO_vidSetPortDir
+ .text.DIO_vidSetPortVal
+                0x00001918       0x38 ./MCAL/DIO/dio_pro.o
+                0x00001918                DIO_vidSetPortVal
+ .text.DIO_u8GetPortVal
+                0x00001950       0x38 ./MCAL/DIO/dio_pro.o
+                0x00001950                DIO_u8GetPortVal
+ .text.DIO_vidSetPinDir
+                0x00001988       0xe4 ./MCAL/DIO/dio_pro.o
+                0x00001988                DIO_vidSetPinDir
+ .text.DIO_vidSetPinVal
+                0x00001a6c      0x146 ./MCAL/DIO/dio_pro.o
+                0x00001a6c                DIO_vidSetPinVal
+ .text.DIO_u8GetPinVal
+                0x00001bb2       0x5e ./MCAL/DIO/dio_pro.o
+                0x00001bb2                DIO_u8GetPinVal
+ .text.DIO_vidSetPinSDir
+                0x00001c10      0x17c ./MCAL/DIO/dio_pro.o
+                0x00001c10                DIO_vidSetPinSDir
+ .text.DIO_vidSetPinSVal
+                0x00001d8c      0x210 ./MCAL/DIO/dio_pro.o
+                0x00001d8c                DIO_vidSetPinSVal
+ .text.__vector_16
+                0x00001f9c       0x5a ./MCAL/ADC/adc_prog.o
+                0x00001f9c                __vector_16
+ .text.ADC_vid_int
+                0x00001ff6       0x54 ./MCAL/ADC/adc_prog.o
+                0x00001ff6                ADC_vid_int
+ .text.ADC_u16ReadDigitalVal
+                0x0000204a       0x92 ./MCAL/ADC/adc_prog.o
+                0x0000204a                ADC_u16ReadDigitalVal
+ .text.ADC_vid_Enable
+                0x000020dc       0x1c ./MCAL/ADC/adc_prog.o
+                0x000020dc                ADC_vid_Enable
+ .text.ADC_vid_Disable
+                0x000020f8       0x1c ./MCAL/ADC/adc_prog.o
+                0x000020f8                ADC_vid_Disable
+ .text.ADC_vid_InterruptEnable
+                0x00002114       0x2a ./MCAL/ADC/adc_prog.o
+                0x00002114                ADC_vid_InterruptEnable
+ .text.ADC_vid_InterruptDisable
+                0x0000213e       0x1c ./MCAL/ADC/adc_prog.o
+                0x0000213e                ADC_vid_InterruptDisable
+ .text.ADC_vid_ClrFlag
+                0x0000215a       0x1c ./MCAL/ADC/adc_prog.o
+                0x0000215a                ADC_vid_ClrFlag
+ .text.ADC_F32_STEP_mvolt
+                0x00002176       0x36 ./MCAL/ADC/adc_prog.o
+                0x00002176                ADC_F32_STEP_mvolt
+ .text.EXT_ADC_vid_int
+                0x000021ac       0x16 ./HAL/temp sensor/tempsensor.o
+                0x000021ac                EXT_ADC_vid_int
+ .text.EXT_ADC_u16ReadDigitalVal
+                0x000021c2       0x1a ./HAL/temp sensor/tempsensor.o
+                0x000021c2                EXT_ADC_u16ReadDigitalVal
+ .text.SE7_seg_vid_int
+                0x000021dc       0xa0 ./HAL/seven_segment/sev_seg_prog.o
+                0x000021dc                SE7_seg_vid_int
+ .text.SE7_seg_vid_write
+                0x0000227c       0xa2 ./HAL/seven_segment/sev_seg_prog.o
+                0x0000227c                SE7_seg_vid_write
+ .text.SW_vidInt
+                0x0000231e       0x3e ./HAL/SW/sw_pro.o
+                0x0000231e                SW_vidInt
+ .text.SW1_u8Read
+                0x0000235c       0x14 ./HAL/SW/sw_pro.o
+                0x0000235c                SW1_u8Read
+ .text.SW2_u8Read
+                0x00002370       0x14 ./HAL/SW/sw_pro.o
+                0x00002370                SW2_u8Read
+ .text.SW3_u8Read
+                0x00002384       0x14 ./HAL/SW/sw_pro.o
+                0x00002384                SW3_u8Read
+ .text.LEDS_vidInt
+                0x00002398       0x4e ./HAL/LED/led_prog.o
+                0x00002398                LEDS_vidInt
+ .text.LED1_vidSet
+                0x000023e6       0x1c ./HAL/LED/led_prog.o
+                0x000023e6                LED1_vidSet
+ .text.LED2_vidSet
+                0x00002402       0x1c ./HAL/LED/led_prog.o
+                0x00002402                LED2_vidSet
+ .text.LED3_vidSet
+                0x0000241e       0x1c ./HAL/LED/led_prog.o
+                0x0000241e                LED3_vidSet
+ .text.LED4_vidSet
+                0x0000243a       0x1c ./HAL/LED/led_prog.o
+                0x0000243a                LED4_vidSet
+ .text.TIMER_vid_int
+                0x00002456       0x12 ./HAL/EXT_TIMER0/TIMER_prog.o
+                0x00002456                TIMER_vid_int
+ .text.TIMER_vid_Start
+                0x00002468       0x12 ./HAL/EXT_TIMER0/TIMER_prog.o
+                0x00002468                TIMER_vid_Start
+ .text.TIMER_vid_Stop
+                0x0000247a       0x12 ./HAL/EXT_TIMER0/TIMER_prog.o
+                0x0000247a                TIMER_vid_Stop
+ .text.TIMER_vid_Reset
+                0x0000248c       0x12 ./HAL/EXT_TIMER0/TIMER_prog.o
+                0x0000248c                TIMER_vid_Reset
+ .text.TIMER_vid_Write_COMP_OCR0
+                0x0000249e       0x1a ./HAL/EXT_TIMER0/TIMER_prog.o
+                0x0000249e                TIMER_vid_Write_COMP_OCR0
+ .text.TIMER_vid_COMP_Interrupt_Enable
+                0x000024b8       0x12 ./HAL/EXT_TIMER0/TIMER_prog.o
+                0x000024b8                TIMER_vid_COMP_Interrupt_Enable
+ .text.timer_isr_fun
+                0x000024ca       0x24 ./HAL/EXT_TIMER0/TIMER_prog.o
+                0x000024ca                timer_isr_fun
+ .text.EXTR_vidInit
+                0x000024ee       0x30 ./HAL/EXTR_INT/extint_prog.o
+                0x000024ee                EXTR_vidInit
+ .text.EXTR_vidISR0FUN
+                0x0000251e       0x24 ./HAL/EXTR_INT/extint_prog.o
+                0x0000251e                EXTR_vidISR0FUN
+ .text.EXTR_vidISR1FUN
+                0x00002542       0x24 ./HAL/EXTR_INT/extint_prog.o
+                0x00002542                EXTR_vidISR1FUN
+ .text.EXTR_vidISR2FUN
+                0x00002566       0x24 ./HAL/EXTR_INT/extint_prog.o
+                0x00002566                EXTR_vidISR2FUN
+ .text.EEPROM_voidInit
+                0x0000258a       0x12 ./HAL/EEPROM/eeprom.o
+                0x0000258a                EEPROM_voidInit
+ .text.EEPROM_SendData
+                0x0000259c       0x28 ./HAL/EEPROM/eeprom.o
+                0x0000259c                EEPROM_SendData
+ .text.EEPROM_ReadData
+                0x000025c4       0x30 ./HAL/EEPROM/eeprom.o
+                0x000025c4                EEPROM_ReadData
+ .text.main     0x000025f4      0x766 ./App/main.o
+                0x000025f4                main
+ .text.timer_isr
+                0x00002d5a       0x74 ./App/main.o
+                0x00002d5a                timer_isr
+ .text.libgcc   0x00002dce       0x18 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodqi4.o)
+                0x00002dce                __udivmodqi4
+ .text.libgcc   0x00002de6       0x36 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodsi4.o)
+                0x00002de6                __divmodsi4
+ .text.libgcc   0x00002e1c        0x0 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ .text.libgcc   0x00002e1c        0x0 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc   0x00002e1c        0x0 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x00002e1c       0x44 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodsi4.o)
+                0x00002e1c                __udivmodsi4
+ .text.libgcc   0x00002e60       0x38 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_prologue.o)
+                0x00002e60                __prologue_saves__
+ .text.libgcc   0x00002e98       0x36 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_epilogue.o)
+                0x00002e98                __epilogue_restores__
+                0x00002ece                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x00002ece        0x0 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+                0x00002ece                exit
+                0x00002ece                _exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x00002ece        0x4 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ *(.fini0)
+                0x00002ed2                _etext = .
+
+.data           0x00800060      0x144 load address 0x00002ed2
+                0x00800060                PROVIDE (__data_start, .)
+ *(.data)
+ .data          0x00800060        0x0 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+ .data          0x00800060        0x0 ./MCAL/TIMER/TIMER0_prog.o
+ .data          0x00800060        0x0 ./MCAL/I2C/i2c.o
+ .data          0x00800060        0x0 ./MCAL/EXT/ext_prog.o
+ .data          0x00800060        0x0 ./MCAL/DIO/dio_pro.o
+ .data          0x00800060        0x0 ./MCAL/ADC/adc_prog.o
+ .data          0x00800060        0x0 ./HAL/temp sensor/tempsensor.o
+ .data          0x00800060        0x0 ./HAL/seven_segment/sev_seg_config.o
+ .data          0x00800060        0x0 ./HAL/seven_segment/sev_seg_prog.o
+ .data          0x00800060        0x0 ./HAL/SW/sw_pro.o
+ .data          0x00800060        0x0 ./HAL/LED/led_prog.o
+ .data          0x00800060        0x0 ./HAL/EXT_TIMER0/TIMER_prog.o
+ .data          0x00800060        0x0 ./HAL/EXTR_INT/extint_prog.o
+ .data          0x00800060        0x0 ./HAL/EEPROM/eeprom.o
+ .data          0x00800060        0x0 ./App/main.o
+ .data          0x00800060        0x0 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodqi4.o)
+ .data          0x00800060        0x0 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodsi4.o)
+ .data          0x00800060        0x0 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ .data          0x00800060        0x0 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+ .data          0x00800060        0x0 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+ .data          0x00800060        0x0 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .data          0x00800060        0x0 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .data          0x00800060        0x0 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .data          0x00800060        0x0 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+ .data          0x00800060        0x0 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .data          0x00800060        0x0 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .data          0x00800060        0x0 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .data          0x00800060        0x0 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .data          0x00800060        0x8 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+                0x00800060                __thenan_sf
+ .data          0x00800068        0x0 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+ .data          0x00800068        0x0 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodsi4.o)
+ .data          0x00800068        0x0 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_prologue.o)
+ .data          0x00800068        0x0 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_epilogue.o)
+ .data          0x00800068        0x0 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+ .data          0x00800068        0x0 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .data          0x00800068        0x0 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .data          0x00800068        0x0 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+ .data          0x00800068      0x100 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clz.o)
+                0x00800068                __clz_tab
+ *(.data*)
+ .data.prescaller
+                0x00800168        0xa ./MCAL/TIMER/TIMER0_prog.o
+                0x00800168                prescaller
+ .data.Arr_Dir  0x00800172        0x8 ./MCAL/DIO/dio_pro.o
+                0x00800172                Arr_Dir
+ .data.Arr_PORT
+                0x0080017a        0x8 ./MCAL/DIO/dio_pro.o
+                0x0080017a                Arr_PORT
+ .data.Arr_PIN  0x00800182        0x8 ./MCAL/DIO/dio_pro.o
+                0x00800182                Arr_PIN
+ .data.SE7_seg_port
+                0x0080018a        0xe ./HAL/seven_segment/sev_seg_config.o
+                0x0080018a                SE7_seg_port
+ .data.u8se7_seg_NUMs_x
+                0x00800198        0xb ./HAL/seven_segment/sev_seg_prog.o
+                0x00800198                u8se7_seg_NUMs_x
+ *(.rodata)
+ *(.rodata*)
+ *(.gnu.linkonce.d*)
+                0x008001a4                . = ALIGN (0x2)
+ *fill*         0x008001a3        0x1 00
+                0x008001a4                _edata = .
+                0x008001a4                PROVIDE (__data_end, .)
+
+.bss            0x008001a4       0x1a
+                0x008001a4                PROVIDE (__bss_start, .)
+ *(.bss)
+ .bss           0x008001a4        0x0 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+ .bss           0x008001a4        0x0 ./MCAL/TIMER/TIMER0_prog.o
+ .bss           0x008001a4        0x0 ./MCAL/I2C/i2c.o
+ .bss           0x008001a4        0x0 ./MCAL/EXT/ext_prog.o
+ .bss           0x008001a4        0x0 ./MCAL/DIO/dio_pro.o
+ .bss           0x008001a4        0x0 ./MCAL/ADC/adc_prog.o
+ .bss           0x008001a4        0x0 ./HAL/temp sensor/tempsensor.o
+ .bss           0x008001a4        0x0 ./HAL/seven_segment/sev_seg_config.o
+ .bss           0x008001a4        0x0 ./HAL/seven_segment/sev_seg_prog.o
+ .bss           0x008001a4        0x0 ./HAL/SW/sw_pro.o
+ .bss           0x008001a4        0x0 ./HAL/LED/led_prog.o
+ .bss           0x008001a4        0x0 ./HAL/EXT_TIMER0/TIMER_prog.o
+ .bss           0x008001a4        0x0 ./HAL/EXTR_INT/extint_prog.o
+ .bss           0x008001a4        0x0 ./HAL/EEPROM/eeprom.o
+ .bss           0x008001a4        0x0 ./App/main.o
+ .bss           0x008001a4        0x0 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodqi4.o)
+ .bss           0x008001a4        0x0 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodsi4.o)
+ .bss           0x008001a4        0x0 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ .bss           0x008001a4        0x0 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+ .bss           0x008001a4        0x0 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+ .bss           0x008001a4        0x0 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .bss           0x008001a4        0x0 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .bss           0x008001a4        0x0 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .bss           0x008001a4        0x0 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+ .bss           0x008001a4        0x0 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .bss           0x008001a4        0x0 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .bss           0x008001a4        0x0 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .bss           0x008001a4        0x0 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .bss           0x008001a4        0x0 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .bss           0x008001a4        0x0 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+ .bss           0x008001a4        0x0 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodsi4.o)
+ .bss           0x008001a4        0x0 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_prologue.o)
+ .bss           0x008001a4        0x0 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_epilogue.o)
+ .bss           0x008001a4        0x0 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+ .bss           0x008001a4        0x0 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .bss           0x008001a4        0x0 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .bss           0x008001a4        0x0 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+ .bss           0x008001a4        0x0 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clz.o)
+ *(.bss*)
+ .bss.temp_timer
+                0x008001a4        0x1 ./App/main.o
+                0x008001a4                temp_timer
+ .bss.temp_counter
+                0x008001a5        0x1 ./App/main.o
+                0x008001a5                temp_counter
+ .bss.seting_mode_counter
+                0x008001a6        0x2 ./App/main.o
+                0x008001a6                seting_mode_counter
+ .bss.blink_counter
+                0x008001a8        0x1 ./App/main.o
+                0x008001a8                blink_counter
+ .bss.blink_toggle
+                0x008001a9        0x1 ./App/main.o
+                0x008001a9                blink_toggle
+ .bss.colling_indicator
+                0x008001aa        0x1 ./App/main.o
+                0x008001aa                colling_indicator
+ .bss.heating_indicator
+                0x008001ab        0x1 ./App/main.o
+                0x008001ab                heating_indicator
+ .bss.Req_Temp_achieved_indicator
+                0x008001ac        0x1 ./App/main.o
+                0x008001ac                Req_Temp_achieved_indicator
+ .bss.Req_Temp_achieved_counter
+                0x008001ad        0x2 ./App/main.o
+                0x008001ad                Req_Temp_achieved_counter
+ .bss.seting_mode
+                0x008001af        0x1 ./App/main.o
+                0x008001af                seting_mode
+ .bss.on_off_count
+                0x008001b0        0x1 ./App/main.o
+                0x008001b0                on_off_count
+ *(COMMON)
+ COMMON         0x008001b1        0x4 ./MCAL/TIMER/TIMER0_prog.o
+                0x008001b1                TIMER0_OVF_INT
+                0x008001b3                TIMER0_CTC_INT
+ COMMON         0x008001b5        0x6 ./MCAL/EXT/ext_prog.o
+                0x008001b5                ISR_FUN_INT2
+                0x008001b7                ISR_FUN_INT1
+                0x008001b9                ISR_FUN_INT0
+ COMMON         0x008001bb        0x2 ./MCAL/ADC/adc_prog.o
+                0x008001bb                ISR_ADC_INT
+ COMMON         0x008001bd        0x1 ./HAL/seven_segment/sev_seg_prog.o
+                0x008001bd                error
+                0x008001be                PROVIDE (__bss_end, .)
+                0x00002ed2                __data_load_start = LOADADDR (.data)
+                0x00003016                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x008001be        0x0
+                0x008001be                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                0x008001be                PROVIDE (__noinit_end, .)
+                0x008001be                _end = .
+                0x008001be                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.stab           0x00000000     0x3c18
+ *(.stab)
+ .stab          0x00000000      0x504 ./MCAL/TIMER/TIMER0_prog.o
+ .stab          0x00000504      0xba0 ./MCAL/I2C/i2c.o
+                                0xbac (size before relaxing)
+ .stab          0x000010a4      0x42c ./MCAL/EXT/ext_prog.o
+                                0x438 (size before relaxing)
+ .stab          0x000014d0      0x5d0 ./MCAL/DIO/dio_pro.o
+                                0x5dc (size before relaxing)
+ .stab          0x00001aa0      0x42c ./MCAL/ADC/adc_prog.o
+                                0x438 (size before relaxing)
+ .stab          0x00001ecc      0x234 ./HAL/temp sensor/tempsensor.o
+                                0x240 (size before relaxing)
+ .stab          0x00002100      0x15c ./HAL/seven_segment/sev_seg_config.o
+                                0x168 (size before relaxing)
+ .stab          0x0000225c      0x27c ./HAL/seven_segment/sev_seg_prog.o
+                                0x2f4 (size before relaxing)
+ .stab          0x000024d8      0x24c ./HAL/SW/sw_pro.o
+                                0x258 (size before relaxing)
+ .stab          0x00002724      0x2c4 ./HAL/LED/led_prog.o
+                                0x2d0 (size before relaxing)
+ .stab          0x000029e8      0x2d0 ./HAL/EXT_TIMER0/TIMER_prog.o
+                                0x2dc (size before relaxing)
+ .stab          0x00002cb8      0x288 ./HAL/EXTR_INT/extint_prog.o
+                                0x294 (size before relaxing)
+ .stab          0x00002f40      0x240 ./HAL/EEPROM/eeprom.o
+                                0x24c (size before relaxing)
+ .stab          0x00003180      0xa98 ./App/main.o
+                                0xc30 (size before relaxing)
+
+.stabstr        0x00000000     0x1dbd
+ *(.stabstr)
+ .stabstr       0x00000000     0x1dbd ./MCAL/TIMER/TIMER0_prog.o
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment
+ *(.comment)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x1a0
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x20 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_aranges
+                0x00000020       0x20 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_aranges
+                0x00000040       0x20 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_aranges
+                0x00000060       0x20 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+ .debug_aranges
+                0x00000080       0x20 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_aranges
+                0x000000a0       0x20 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_aranges
+                0x000000c0       0x20 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .debug_aranges
+                0x000000e0       0x20 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_aranges
+                0x00000100       0x20 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+ .debug_aranges
+                0x00000120       0x20 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+ .debug_aranges
+                0x00000140       0x20 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_aranges
+                0x00000160       0x20 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_aranges
+                0x00000180       0x20 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+
+.debug_pubnames
+                0x00000000      0x1f2
+ *(.debug_pubnames)
+ .debug_pubnames
+                0x00000000       0x23 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_pubnames
+                0x00000023       0x2c h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_pubnames
+                0x0000004f       0x1f h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_pubnames
+                0x0000006e       0x1f h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+ .debug_pubnames
+                0x0000008d       0x1e h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_pubnames
+                0x000000ab       0x1e h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_pubnames
+                0x000000c9       0x1e h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .debug_pubnames
+                0x000000e7       0x20 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_pubnames
+                0x00000107       0x22 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .debug_pubnames
+                0x00000129       0x24 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+ .debug_pubnames
+                0x0000014d       0x1f h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+ .debug_pubnames
+                0x0000016c       0x1f h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_pubnames
+                0x0000018b       0x21 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_pubnames
+                0x000001ac       0x26 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+ .debug_pubnames
+                0x000001d2       0x20 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clz.o)
+
+.debug_info     0x00000000     0x240b
+ *(.debug_info)
+ .debug_info    0x00000000       0xb1 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_info    0x000000b1      0x47a h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_info    0x0000052b      0x485 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_info    0x000009b0      0x3fc h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+ .debug_info    0x00000dac      0x27f h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_info    0x0000102b      0x27f h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_info    0x000012aa      0x27f h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .debug_info    0x00001529      0x2b0 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_info    0x000017d9      0x12c h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .debug_info    0x00001905      0x206 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+ .debug_info    0x00001b0b      0x117 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+ .debug_info    0x00001c22      0x2df h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_info    0x00001f01      0x251 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_info    0x00002152      0x210 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+ .debug_info    0x00002362       0xa9 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clz.o)
+ *(.gnu.linkonce.wi.*)
+
+.debug_abbrev   0x00000000     0x1386
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000       0x5d h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_abbrev  0x0000005d      0x1ea h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_abbrev  0x00000247      0x21b h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_abbrev  0x00000462      0x216 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+ .debug_abbrev  0x00000678      0x15a h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_abbrev  0x000007d2      0x15a h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_abbrev  0x0000092c      0x15a h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .debug_abbrev  0x00000a86      0x17f h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_abbrev  0x00000c05       0xad h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .debug_abbrev  0x00000cb2      0x157 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+ .debug_abbrev  0x00000e09       0xc4 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+ .debug_abbrev  0x00000ecd      0x1c0 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_abbrev  0x0000108d      0x154 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_abbrev  0x000011e1      0x13b h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+ .debug_abbrev  0x0000131c       0x6a h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clz.o)
+
+.debug_line     0x00000000     0x11d6
+ *(.debug_line)
+ .debug_line    0x00000000       0xa7 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_line    0x000000a7      0x2af h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_line    0x00000356      0x239 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_line    0x0000058f      0x1d5 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+ .debug_line    0x00000764       0xd3 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_line    0x00000837       0xd3 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_line    0x0000090a       0xd3 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .debug_line    0x000009dd      0x109 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_line    0x00000ae6       0x90 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .debug_line    0x00000b76      0x133 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+ .debug_line    0x00000ca9       0xa5 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+ .debug_line    0x00000d4e      0x18a h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_line    0x00000ed8      0x14b h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_line    0x00001023      0x137 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+ .debug_line    0x0000115a       0x7c h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clz.o)
+
+.debug_frame    0x00000000      0x1c0
+ *(.debug_frame)
+ .debug_frame   0x00000000       0x20 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_frame   0x00000020       0x40 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_frame   0x00000060       0x20 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_frame   0x00000080       0x20 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+ .debug_frame   0x000000a0       0x20 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_frame   0x000000c0       0x20 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_frame   0x000000e0       0x20 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .debug_frame   0x00000100       0x20 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_frame   0x00000120       0x20 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+ .debug_frame   0x00000140       0x20 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+ .debug_frame   0x00000160       0x20 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_frame   0x00000180       0x20 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_frame   0x000001a0       0x20 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+
+.debug_str      0x00000000      0x2f6
+ *(.debug_str)
+ .debug_str     0x00000000       0xbf h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+                                 0xfe (size before relaxing)
+ .debug_str     0x000000bf      0x14d h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+                                0x206 (size before relaxing)
+ .debug_str     0x0000020c       0x27 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+                                0x1bf (size before relaxing)
+ .debug_str     0x00000233       0x35 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+                                0x1c8 (size before relaxing)
+ .debug_str     0x00000268        0x8 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+                                0x195 (size before relaxing)
+ .debug_str     0x00000270        0x8 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+                                0x195 (size before relaxing)
+ .debug_str     0x00000278        0x8 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+                                0x195 (size before relaxing)
+ .debug_str     0x00000280        0xa h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+                                0x19e (size before relaxing)
+ .debug_str     0x00000000      0x103 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .debug_str     0x0000028a       0x21 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+                                0x177 (size before relaxing)
+ .debug_str     0x000002ab       0x20 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+                                0x111 (size before relaxing)
+ .debug_str     0x000002cb       0x10 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+                                0x19d (size before relaxing)
+ .debug_str     0x000002db        0xb h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+                                0x17f (size before relaxing)
+ .debug_str     0x000002e6       0x10 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+                                0x163 (size before relaxing)
+ .debug_str     0x00000000       0xf4 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clz.o)
+
+.debug_loc      0x00000000      0x96e
+ *(.debug_loc)
+ .debug_loc     0x00000000       0x34 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_loc     0x00000034      0x32a h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_loc     0x0000035e      0x104 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_loc     0x00000462       0xc0 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+ .debug_loc     0x00000522       0x3c h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_loc     0x0000055e       0x3c h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_loc     0x0000059a       0x3c h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .debug_loc     0x000005d6       0x7e h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_loc     0x00000654       0x4c h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+ .debug_loc     0x000006a0       0x94 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+ .debug_loc     0x00000734      0x13e h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_loc     0x00000872       0xac h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_loc     0x0000091e       0x50 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+
+.debug_macinfo
+ *(.debug_macinfo)
+OUTPUT(Graduation_Project_Amit.elf elf32-avr)
+LOAD linker stubs
+
+.debug_ranges   0x00000000       0x50
+ .debug_ranges  0x00000000       0x50 h:/amit_course _embedded system/eclipse program/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
